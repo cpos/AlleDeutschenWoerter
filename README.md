@@ -8,31 +8,36 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 
 # Inhalt
 
+###
+
+Substantive 
+
+
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Singular</th>
-      <th>Plural</th>
+      <th><b>Singular</b></th>
+      <th><b>Plural<b></th>
+      <th><b>Link</b>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Substantiv, der (maskulin)</td>
+      <td><b>Substantiv, der (maskulin)<b></td>
       <td>5761</td>
       <td>todo</td>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive">Alle Substantive</a>
     </tr>
     <tr>
-      <td>Substantiv, die (feminin)</td>
+      <td><b>Substantiv, die (feminin)</b></td>
       <td>5802</td>
       <td>todo</td>
     </tr>
     <tr>
-      <td>Substantiv, das (Neutrum)</td>
+      <td><b>Substantiv, das (Neutrum)</b></td>
       <td>3058</td>
       <td>todo</td>
     </tr>
   </tbody>
 </table>
-
- [fasthttp](https://github.com/valyala/fasthttp)
