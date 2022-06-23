@@ -71,4 +71,39 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
   </tbody>
 </table>
 
+### Adjektive 
 
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th><b>Positiv</b></th>
+      <th><b>Komparativ<b></th>
+      <th><b>Superlativ</b></th>
+      <th><b>Link</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Adjektiv (positiv)<b></td>
+      <td>6850</td>
+      <td>todo</td>
+      <td>todp</td>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Adjektive/Adjektive.txt">TXT</a>
+    </tr>
+    <tr>
+      <td><b>Adjektiv (komperativ</b></td>
+      <td>todo</td>
+      <td>todo</td>
+      <td>todo</td>
+      <td></td>
+    </tr>
+    <tr>
+    <td><b>Adjektiv (Superlativ)</b></td>
+      <td>todo</td>
+      <td>todo</td>
+      <td>todo</td>
+    <td></a>
+    </tr>
+  </tbody>
+</table>
