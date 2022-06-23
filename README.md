@@ -10,7 +10,7 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 
 ### Substantive 
 
-<table border="0">
+<table>
   <thead>
     <tr>
       <th></th>
@@ -42,3 +42,33 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 </table>
 
 ### Verben 
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th><b>Infinitiv</b></th>
+      <th><b>Präteritum<b></th>
+      <th><b>Perfekt</b></th>
+      <th><b>Link</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>regelmäßige Verben<b></td>
+      <td>3063</td>
+      <td>todo</td>
+      <td>todp</td>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Verben/Verben_regelmaesig.txt">TXT</a>
+    </tr>
+    <tr>
+      <td><b>unregelmäßige Verben</b></td>
+      <td>5802</td>
+      <td>todo</td>
+      <td>todo</td>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Verben/Verben_unregelmae%C3%9Fig_Infinitiv.txt">TXT</a>
+    </tr>
+  </tbody>
+</table>
+
+
