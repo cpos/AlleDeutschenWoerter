@@ -108,7 +108,10 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 Die meißsten Rohdaten stammen von folgenden Quellen
 
 [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
+
 [Leo.org](https://dict.leo.org/)
+
 [Leibnitz Institut für deutsche Sprache](https://www.ids-mannheim.de/)
+
 [Duden](https://duden.de)
 
