@@ -8,12 +8,9 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 
 # Inhalt
 
-###
+### Substantive 
 
-Substantive 
-
-
-<table>
+<table border="0">
   <thead>
     <tr>
       <th></th>
@@ -33,11 +30,15 @@ Substantive
       <td><b>Substantiv, die (feminin)</b></td>
       <td>5802</td>
       <td>todo</td>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive">Alle Substantive</a>
     </tr>
     <tr>
       <td><b>Substantiv, das (Neutrum)</b></td>
       <td>3058</td>
       <td>todo</td>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive">Alle Substantive</a>
     </tr>
   </tbody>
 </table>
+
+### Verben 
