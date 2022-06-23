@@ -1,6 +1,6 @@
 # Alle Deutschen Wörter
 
-Dies ist der Versuch eine, soweit wie möglich, vollständige Liste deutschen Wörter zu erstellen.
+Dies ist der Versuch eine, soweit wie möglich, vollständige Liste deutscher Wörter zu erstellen.
 
 - maschinenlesbar
 - strukturiert
