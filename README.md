@@ -11,19 +11,24 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 <table>
   <thead>
     <tr>
-      <th>Spalte 1</th>
-      <th>Spalte 2</th>
-      <th>Spalte 3</th>
+      <th></th>
+      <th>Singular</th>
+      <th>Plural</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Inhalt</td>
+      <td>Substantiv, der (maskulin)</td>
       <td>Inhalt</td>
       <td>Inhalt</td>
     </tr>
     <tr>
+      <td>Substantiv die (feminin)</td>
       <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+    <tr>
+      <td>Substantiv das (Neutrum)</td>
       <td>Inhalt</td>
       <td>Inhalt</td>
     </tr>
