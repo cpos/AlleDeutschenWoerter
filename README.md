@@ -22,7 +22,7 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
       <td>Substantiv, der (maskulin)</td>
       <td>5761</td>
       <td>todo</td>
-      <td>[Alle Substantive](https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive)</td>
+      <td> [fasthttp](https://github.com/valyala/fasthttp)</td>
     </tr>
     <tr>
       <td>Substantiv, die (feminin)</td>
