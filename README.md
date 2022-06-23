@@ -24,19 +24,19 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
       <td><b>Substantiv, der (maskulin)<b></td>
       <td>5761</td>
       <td>todo</td>
-      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive">Alle Substantive</a>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Substantive/substantiv_singular_der.txt">TXT</a>
     </tr>
     <tr>
       <td><b>Substantiv, die (feminin)</b></td>
       <td>5802</td>
       <td>todo</td>
-      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive">Alle Substantive</a>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Substantive/substantiv_singular_die.txt">TXT</a>
     </tr>
     <tr>
       <td><b>Substantiv, das (Neutrum)</b></td>
       <td>3058</td>
       <td>todo</td>
-      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/tree/main/Substantive">Alle Substantive</a>
+      <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Substantive/substantiv_singular_das.txt">TXT</a>
     </tr>
   </tbody>
 </table>
@@ -58,7 +58,7 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
       <td><b>regelmäßige Verben<b></td>
       <td>3063</td>
       <td>todo</td>
-      <td>todp</td>
+      <td>todo</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Verben/Verben_regelmaesig.txt">TXT</a>
     </tr>
     <tr>
@@ -97,3 +97,18 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
     </tr>
   </tbody>
 </table>
+
+# TODO 
+
+- Hauptwortgruppen vervollständigen
+- restliche Wortgruppen implementieren
+
+# Quellen
+
+Die meißsten Rohdaten stammen von folgenden Quellen
+
+[Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
+[Leo.org](https://dict.leo.org/)
+[Leibnitz Institut für deutsche Sprache](https://www.ids-mannheim.de/)
+[Duden](https://duden.de)
+
