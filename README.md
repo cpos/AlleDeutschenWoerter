@@ -105,7 +105,7 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste Aller deutsc
 
 # Quellen
 
-Die meißsten Rohdaten stammen von folgenden Quellen
+Die meisten Rohdaten stammen von folgenden Quellen
 
 [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
 
