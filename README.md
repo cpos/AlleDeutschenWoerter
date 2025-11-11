@@ -22,19 +22,19 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste deutscher W�
   <tbody>
     <tr>
       <td><b>Substantiv, der (maskulin)<b></td>
-      <td>5761</td>
+      <td>5760</td>
       <td>todo</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Substantive/substantiv_singular_der.txt">TXT</a>
     </tr>
     <tr>
       <td><b>Substantiv, die (feminin)</b></td>
-      <td>5802</td>
+      <td>5797</td>
       <td>todo</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Substantive/substantiv_singular_die.txt">TXT</a>
     </tr>
     <tr>
       <td><b>Substantiv, das (Neutrum)</b></td>
-      <td>3058</td>
+      <td>3053</td>
       <td>todo</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Substantive/substantiv_singular_das.txt">TXT</a>
     </tr>
@@ -56,14 +56,14 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste deutscher W�
   <tbody>
     <tr>
       <td><b>regelmäßige Verben<b></td>
-      <td>3063</td>
+      <td>3039</td>
       <td>todo</td>
       <td>todo</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Verben/Verben_regelmaesig.txt">TXT</a>
     </tr>
     <tr>
       <td><b>unregelmäßige Verben</b></td>
-      <td>5802</td>
+      <td>1712</td>
       <td>todo</td>
       <td>todo</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Verben/Verben_unregelmae%C3%9Fig_Infinitiv.txt">TXT</a>
@@ -84,7 +84,7 @@ Dies ist der Versuch eine, soweit wie möglich, vollständige Liste deutscher W�
   <tbody>
     <tr>
       <td><b>Adjektiv (positiv)<b></td>
-      <td>6850</td>
+      <td>6848</td>
       <td><a href="https://github.com/cpos/AlleDeutschenWoerter/blob/main/Adjektive/Adjektive.txt">TXT</a>
     </tr>
     <tr>
