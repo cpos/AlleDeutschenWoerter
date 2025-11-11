@@ -231,7 +231,6 @@ avivieren
 avouieren
 axiomatisieren
 azotieren
-B[Bearbeiten]
 babbeln
 baden
 bagatellisieren
@@ -513,7 +512,6 @@ bürgen
 bürsten
 büßen
 buttern
-C[Bearbeiten]
 changieren
 charakterisieren
 chargieren
@@ -524,7 +522,6 @@ choreographieren
 computerisieren
 cremen
 chillen
-D[Bearbeiten]
 dämmen
 dämmern
 dämonisieren
@@ -657,7 +654,6 @@ duseln
 düsen
 duzen
 dynamisieren
-E[Bearbeiten]
 ebben
 ebnen
 echauffieren
@@ -830,7 +826,6 @@ extemporieren
 extrahieren
 extrapolieren
 exzerpieren
-F[Bearbeiten]
 fabrizieren
 fabulieren
 fächeln
@@ -970,7 +965,6 @@ füßeln
 fußen
 futtern
 füttern
-G[Bearbeiten]
 gackern
 gaffen
 gähnen
@@ -1063,7 +1057,6 @@ gummieren
 gurgeln
 gurren
 gustieren
-H[Bearbeiten]
 hacken
 häckseln
 hadern
@@ -1159,7 +1152,6 @@ hüten
 hutzeln
 hygienisieren
 hypnotisieren
-I[Bearbeiten]
 idealisieren
 identifizieren
 ignorieren
@@ -1233,7 +1225,6 @@ irren
 irritieren
 isolieren
 iterieren
-J[Bearbeiten]
 jagen
 jähren
 jammern
@@ -1251,7 +1242,6 @@ jubilieren
 jucken
 judizieren
 justieren
-K[Bearbeiten]
 kabbeln
 kacheln
 kacken
@@ -1502,7 +1492,6 @@ kürzen
 kuscheln
 kuschen
 küssen
-L[Bearbeiten]
 laben
 labern
 laborieren
@@ -1590,7 +1579,6 @@ lungern
 lüpfen
 lutschen
 lynchen
-M[Bearbeiten]
 mäandern
 machen
 magnetisieren
@@ -1705,7 +1693,6 @@ murren
 musizieren
 mustern
 mutmaßen
-N[Bearbeiten]
 nachäffen
 nachdunkeln
 nachhaken
@@ -1754,7 +1741,6 @@ nummerieren
 nuscheln
 nutzen
 nützen
-O[Bearbeiten]
 obduzieren
 objektivieren
 observieren
@@ -1785,7 +1771,6 @@ oszillieren
 outen
 oxidieren
 oxydieren
-P[Bearbeiten]
 pachten
 packen
 paddeln
@@ -1971,7 +1956,6 @@ purzeln
 pusten
 putzen
 puzzeln
-Q[Bearbeiten]
 quadrieren
 quälen
 qualifizieren
@@ -1988,7 +1972,6 @@ quietschen
 quirlen
 quittieren
 quotieren
-R[Bearbeiten]
 rabattieren
 rächen
 rackern
@@ -2149,7 +2132,6 @@ rußen
 rüsten
 rutschen
 rütteln
-S[Bearbeiten]
 sabbeln
 sabbern
 sabotieren
@@ -2525,7 +2507,6 @@ sympathisieren
 synchronisieren
 synthetisieren
 systematisieren
-T[Bearbeiten]
 tabellarisieren
 tabellieren
 tabuisieren
@@ -2656,7 +2637,6 @@ tuschen
 tuten
 typisieren
 tyrannisieren
-U[Bearbeiten]
 üben
 überbrücken
 überdachen
@@ -2691,7 +2671,6 @@ untertunneln
 urbanisieren
 urinieren
 usurpieren
-V[Bearbeiten]
 vagabundieren
 validieren
 variieren
@@ -2892,7 +2871,6 @@ voltigieren
 vormontieren
 votieren
 vulkanisieren
-W[Bearbeiten]
 wabern
 wachen
 wackeln
@@ -2979,9 +2957,7 @@ würzen
 wuscheln
 wuseln
 wüten
-X[Bearbeiten]
 xerographieren
-Z[Bearbeiten]
 zagen
 zahlen
 zählen
